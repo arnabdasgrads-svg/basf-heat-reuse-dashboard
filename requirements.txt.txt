@@ -1,6 +1,7 @@
 streamlit
 pandas
-plotly
 numpy
-numpy-financial==1.0.0
+numpy-financial
+plotly
+numpy-financial
 scipy
